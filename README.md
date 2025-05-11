@@ -1,4 +1,4 @@
-## Olá! Sou José Medeirs 👋
+## Olá! Sou José Medeiros 👋
 
 <!--
 **Northe-afk/Northe-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
