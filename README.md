@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 📓 I'm in my first semester of university
 🤔 Learning to program in: C, Python, and Assembly
 
--📫 Meios de Contato:
-https://www.linkedin.com/in/jos%C3%A9-carlos-de-medeiros-neto-a97177364/
+
