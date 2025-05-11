@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Sou José Medeirs 👋
 
 <!--
 **Northe-afk/Northe-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📓 I'm in my first semester of university
+🤔 Learning to program in: C, Python, and Assembly
