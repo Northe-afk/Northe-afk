@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 	
  🤔 Learning to program in: C, Python, and Assembly
 
- 🖊️ LinkedIn:  [#Real Cool Heading](https://www.linkedin.com/in/jos%C3%A9-carlos-de-medeiros-neto-a97177364/)
+ 🖊️ LinkedIn:  [#LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-de-medeiros-neto-a97177364/)
 
 
