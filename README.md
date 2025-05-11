@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📓 I'm in my first semester of university
+📓 I'm in my first semester of university \n
 🤔 Learning to program in: C, Python, and Assembly
 
 
