@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 		
 	
- 📓 I'm in my first semester of university 
+ 📓 I'm in my second semester of university 
 
 	
 	
